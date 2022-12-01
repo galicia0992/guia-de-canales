@@ -1,0 +1,443 @@
+[
+  {
+    "nombre": "Star Channel",
+    "id":1,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/star.png",
+    "guia": "https://mi.tv/mx/canales/fox",
+    "descripcion": "Star Channel es un canal de televisión por suscripción latinoamericano de origen estadounidense, propiedad de The Walt Disney Company Latin America y operado por Disney Media Networks Latin America. Está orientado principalmente al público familiar."
+  },
+  {
+    "nombre": "Universal HD",
+    "id":2,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/universal_tv.png",
+    "guia": "https://mi.tv/mx/canales/universal-channel",
+    "descripcion": "Universal TV es un canal de televisión por suscripción latinoamericano de origen estadounidense. Su programación se compone de series, películas de los Estudios Universal y programas basados en la acción, el crimen, la investigación, el misterio, y el drama"
+  },
+  {
+    "nombre": "Sony HD",
+    "id":3,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/Sony_Channel.png",
+    "guia": "https://mi.tv/mx/canales/sony-hd",
+    "descripcion": "Sony Channel es un canal de televisión por suscripción latinoamericano el cual emite series y películas."
+  },
+  {
+    "nombre": "Warner Channel HD",
+    "id":4,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/warner.png",
+    "guia": "https://mi.tv/mx/canales/warner",
+    "descripcion": "Warner Channel es un canal de televisión por suscripción latinoamericano de origen estadounidense operado por WarnerMedia Latin America, Está centrado en emisión de series, comedia, películas y entretenimiento"
+  },
+  {
+    "nombre": "AE",
+    "id":5,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/AE.png",
+    "guia": "https://mi.tv/mx/canales/a-e-mundo",
+    "descripcion": "A&E (siglas de Arts & Entertainment) es un canal de televisión por suscripción estadounidense. El canal se centró originalmente en la programación biografías, documentales, y series (en especial de dramas criminales y misterios), pero más tarde se ha expandido para incluir telerrealidad."
+  },
+  {
+    "nombre": "Comedy central",
+    "id":6,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/Comedy_Central.svg",
+    "guia": "https://mi.tv/mx/canales/comedy-central",
+    "descripcion": "Comedy Central es un canal de televisión por suscripción latinoamericano de origen estadounidense, enfocado en la emisión de series y películas de comedia para toda la familia, tanto de producción extranjera como local."
+  },
+  {
+    "nombre": "Space",
+    "id":7,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/space.png",
+    "guia": "https://mi.tv/mx/canales/space",
+    "descripcion": "Space es un canal de televisión por suscripción latinoamericano de origen argentino. Es propiedad de Warner Bros. Discovery y es operado por WarnerMedia Latin America. El canal está orientado al público de jóvenes y adultos (entre 14 a 45 años)."
+  },
+  {
+    "nombre": "Discovery Channel",
+    "id":8,
+    "numero": "",
+    "categoria": "Documentales",
+    "imagen": "/img/discovery.jpg",
+    "guia": "https://mi.tv/mx/canales/discovery-channel",
+    "descripcion": "Discovery Channel (conocido simplemente como Discovery) es un canal de televisión por suscripción estadounidense propiedad de Warner Bros. Discovery. Inicialmente, proporcionó programación de televisión documental centrada principalmente en la ciencia, la tecnología y la historia"
+  },
+  {
+    "nombre": "TNT HD",
+    "id":9,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/tnt.png",
+    "guia": "https://mi.tv/mx/canales/tnt-hd",
+    "descripcion": "TNT (siglas de Turner Network Television) es un canal de televisión por suscripción latinoamericano de origen estadounidense, variante regional del canal original, que inició sus operaciones el 28 de enero de 1991 y está orientado a la emisión de películas de cualquier género."
+  },
+  {
+    "nombre": "Panico HD",
+    "id":10,
+    "numero": "",
+    "categoria": "Infantil",
+    "imagen": "/img/panico.png",
+    "guia": "https://www.gatotv.com/canal/panico",
+    "descripcion": "Pánico es un canal de televisión mexicano propiedad de PCTV. Es un canal que emite 24 horas películas, series, cápsulas y animé de los géneros de terror, suspenso, gore, vampiros y zombies."
+  },
+  {
+    "nombre": "NBA TV",
+    "id":11,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/nba.png",
+    "guia": "https://www.nba.com/watch/nba-tv/schedule",
+    "descripcion": "NBA TV es una cadena de televisión por suscripción dedicada exclusivamente al baloncesto en Estados Unidos."
+  },
+  {
+    "nombre": "NFL TV",
+    "id":12,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/nfl.png",
+    "guia": "https://www.nfl.com/network/schedule/",
+    "descripcion": "NFL Network es un canal de televisión por suscripción estadounidense propiedad de la National Football League, la liga estadounidense de fútbol americano"
+  },
+  {
+    "nombre": "ESPN 3",
+    "id":13,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/ESPN.png",
+    "guia": "https://mi.tv/mx/canales/espn-3",
+    "descripcion": "ESPN 3 es un canal de televisión por suscripción latinoamericano de origen estadounidense, lanzado el 14 de noviembre de 2011, que emite contenido deportivo."
+  },
+  {
+    "nombre": "Fox Sports 2",
+    "id":14,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/fs2.png",
+    "guia": "https://mi.tv/mx/canales/fox-sports-2",
+    "descripcion": "Fox Sports 2 es un canal de televisión por suscripción latinoamericano de origen estadounidense dedicado a la programación deportiva, transmitiendo su programación desde Argentina, para Sudamérica y Centroamérica."
+  },
+  {
+    "nombre": "Azteca Uno",
+    "id":15,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/azUno.png",
+    "guia": "https://mi.tv/mx/canales/azteca-13",
+    "descripcion": "Azteca Uno es una cadena de televisión comercial de México, perteneciente a la empresa privada Televisión Azteca. Su programación, de corte generalista, está constituida principalmente por reality shows, noticieros, programas de variedad, concursos, películas y series."
+  },
+  {
+    "nombre": "Canal de las Estrellas",
+    "id":16,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/estrellas.png",
+    "guia": "https://mi.tv/mx/canales/canal-de-las-estrellas-xew",
+    "descripcion": "Las Estrellas (inicialmente, Canal 2; luego El Canal de las Estrellas) (XEW-TDT) es una cadena de televisión mexicana propiedad de TelevisaUnivision."
+  },
+  {
+    "nombre": "Imagen TV",
+    "id":17,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/imagen.png",
+    "guia": "https://www.imagentv.com/programacion",
+    "descripcion": "Su programación es de entretenimiento general, particularmente dirigida a las amas de casa, ya que gran parte de su programación de lunes a viernes, la ocupan telenovelas (en su mayoría, de origen colombiano, brasileño y turco). Además cuentan con 3 espacios de noticias"
+  },
+  {
+    "nombre": "Canal 5",
+    "id":18,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/canal5.png",
+    "guia": "https://mi.tv/mx/canales/xh-gc-canal-5",
+    "descripcion": "El canal está orientado principalmente hacia el público infantil y juvenil, aunque en los horarios nocturnos suele incluir un concepto más general con series de televisión y reality shows."
+  },
+  {
+    "nombre": "Canal 6 Multimedios",
+    "id":19,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/multimedios.png",
+    "guia": "https://www.multimedios.com/television/programacion",
+    "descripcion": "Además de la programación de noticieros y deportes, Multimedios Televisión cuenta con programas de entretenimiento"
+  },
+  {
+    "nombre": "Azteca 7",
+    "id":20,
+    "numero": "",
+    "categoria": "Nacional",
+    "imagen": "/img/az7.png",
+    "guia": "https://mi.tv/mx/canales/azteca-7",
+    "descripcion": "Su programación de carácter generalista, se caracterizaba por tener un corte juvenil e infantil con la emisión de caricaturas y series de comedia."
+  },
+  {
+    "nombre": "HBO 2",
+    "id":21,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/hbo2.png",
+    "guia": "https://mi.tv/mx/canales/hbo-2",
+    "descripcion": "La programación de HBO 2 es básicamente la misma de HBO pero doblada al español y portugués (en Brasil). Toda su programación se emite sin interrupciones comerciales."
+  },
+  {
+    "nombre": "HBO Plus",
+    "id":22,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/hbo+.png",
+    "guia": "https://mi.tv/mx/canales/hbo-plus-mexico",
+    "descripcion": "El canal rescata películas de diferentes años ya exhibidas en HBO y HBO 2, además de algunas series originales producidas por la cadena."
+  },
+  {
+    "nombre": "HBO Family",
+    "id":23,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/HBOF.png",
+    "guia": "https://mi.tv/mx/canales/hbo-family",
+    "descripcion": "La programación de HBO Family se basa en programas sin violencia y sin lenguaje vulgar, estando más dirigido al público infantil, el canal muestra una previa de la película, indicando la sinopsis, fecha y a quién va dirigido, a modo de advertencia"
+  },
+  {
+    "nombre": "Paramount HD",
+    "id":24,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/param.png",
+    "guia": "https://www.lavanguardia.com/television/programacion-tv/paramount-network",
+    "descripcion": "Paramount Network es un canal de televisión por suscripción latinoamericano de origen estadounidense que emite películas principalmente de la productora de cine Paramount Pictures y series."
+  },
+  {
+    "nombre": "HBO Mundi",
+    "id":25,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/hbom.png",
+    "guia": "https://mi.tv/mx/canales/max",
+    "descripcion": "La programación de HBO Mundi se basa en la emisión de cine independiente, cine internacional, películas de tipo experimental, series internacionales y documentales de culto."
+  },
+  {
+    "nombre": "HBO Xtreme",
+    "id":26,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/hbox.png",
+    "guia": "https://mi.tv/mx/canales/max-prime-mexico",
+    "descripcion": "HBO Xtreme emite películas del género acción, terror y suspenso, producidas por las empresas cinematográficas asociadas a la cadena HBO, como Columbia Pictures, Warner Bros. Entertainment, Sony Pictures Entertainment, New Line Cinema, Universal Pictures (excepto Brasil), y demás empresas independientes"
+  },
+  {
+    "nombre": "E!",
+    "id":27,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/ee.png",
+    "guia": "https://www.gatotv.com/canal/e_entertainment_television_mexico",
+    "descripcion": "E! Entertainment Television (simplificado como E!) es una cadena de televisión por suscripción estadounidense, la cual se dedica a informar sobre la farándula y celebridades de Hollywood, televisión y de la música."
+  },
+  {
+    "nombre": "Nat Geo",
+    "id":28,
+    "numero": "",
+    "categoria": "Documentales",
+    "imagen": "/img/nat.png",
+    "guia": "https://mi.tv/mx/canales/national-geographic",
+    "descripcion": "Es un canal de televisión por suscripción latinoamericano de origen estadounidense, el cual está enfocado en la emisión de documentales sobre la exploración científica, historia, naturaleza, cultura, investigación, tecnología, entre otros, con contenidos doblados al español."
+  },
+  {
+    "nombre": "CNN HD",
+    "id":29,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/cnn.png",
+    "guia": "https://mi.tv/mx/canales/cnn",
+    "descripcion": "Orientado al tratamiento de temas de actualidad, su programación se basa principalmente en noticieros permanentes, aunque tiene una variada programación de opiniones y política."
+  },
+  {
+    "nombre": "ESPN PLUS",
+    "id":30,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/ESPN+.png",
+    "guia": "https://mi.tv/mx/canales/espn-plus-hd",
+    "descripcion": "Ofrece contenido como deportes de combate, deportes universitarios cómo el cricket y el rugby; fútbol, golf y tenis. Los paquetes deportivos de fuera de mercado de la Liga Nacional de Hockey y la Major League Baseball"
+  },
+  {
+    "nombre": "Fox Sports HD",
+    "id":31,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/fs.png",
+    "guia": "https://mi.tv/mx/canales/fox-sports",
+    "descripcion": "En la actualidad transmiten los shows de Fox Sports, y los deportes de más audiencia, tales como la NFL, la MLB, fútbol internacional como la UEFA Europa League y UEFA Europa Conference League, así como los partidos importantes del fútbol mexicano, en este caso, la Liga MX y la WWE."
+  },
+  {
+    "nombre": "HBO Pop",
+    "id":32,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/hbop.png",
+    "guia": "https://www.gatotv.com/canal/hbo_pop",
+    "descripcion": "HBO Pop emite películas taquilleras del género comedia, romance, drama, aventura y animación, principalmente las producidas por empresas cinematográficas asociadas a la cadena HBO"
+  },
+  {
+    "nombre": "Animal Planet HD",
+    "id":33,
+    "numero": "",
+    "categoria": "Documentales",
+    "imagen": "/img/animal.png",
+    "guia": "https://mi.tv/mx/canales/animal-planet",
+    "descripcion": "El canal está dedicado a programación de la relación entre humanos y animales."
+  },
+  {
+    "nombre": "Fiml & Arts",
+    "id":34,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/fa.png",
+    "guia": "https://mi.tv/mx/canales/film-arts",
+    "descripcion": "Film & Arts es un canal de televisión por suscripción latinoamericano de origen argentino dedicado al cine, la música, el teatro y otros espectáculos artísticos y culturales."
+  },
+  {
+    "nombre": "Europa",
+    "id":35,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/eu.png",
+    "guia": "https://mi.tv/mx/canales/europa-europa",
+    "descripcion": "Europa Europa es un canal de televisión por suscripción latinoamericano de origen argentino, dedicado exclusivamente al cine y series de televisión de producción europea."
+  },
+  {
+    "nombre": "Investigation Discovery",
+    "id":36,
+    "numero": "",
+    "categoria": "Documentales",
+    "imagen": "/img/id.png",
+    "guia": "https://mi.tv/mx/canales/discovery-id",
+    "descripcion": "El canal ofrece programación con respecto a investigaciones criminales, principalmente las investigaciones de homicidios y otros documentales relacionados con delitos."
+  },
+  {
+    "nombre": "MTV",
+    "id":37,
+    "numero": "",
+    "categoria": "Musica",
+    "imagen": "/img/mtv.png",
+    "guia": "https://mi.tv/mx/canales/m-tv",
+    "descripcion": "El canal hoy en día se está centrando en gente más joven como adolescentes y jóvenes de 11 a 34 años, porque el canal MTV está transmitiendo series para los adolescentes."
+  },
+  {
+    "nombre": "Disney Channel",
+    "id":38,
+    "numero": "",
+    "categoria": "Infantil",
+    "imagen": "/img/disney.png",
+    "guia": "https://mi.tv/mx/canales/disney",
+    "descripcion": "Es un canal de televisión por suscripción estadounidense de índole infantil y juvenil."
+  },
+  {
+    "nombre": "Discovery Home & Health",
+    "id":39,
+    "numero": "",
+    "categoria": "Documentales",
+    "imagen": "/img/h&h.png",
+    "guia": "https://mi.tv/mx/canales/discovery-home-and-health",
+    "descripcion": "Su programación se basa en producciones de salud, cocina, belleza y hogar dirigido al público femenino."
+  },
+  {
+    "nombre": "Teleformula",
+    "id":40,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/teleformula.png",
+    "guia": "https://www.radioformula.com.mx/p/en-vivo/teleformula.html",
+    "descripcion": ""
+  },
+  {
+    "nombre": "TVE",
+    "id":41,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/tve.png",
+    "guia": "https://mi.tv/mx/canales/tve",
+    "descripcion": "Su programación consta principalmente de los telediarios emitidos en España a través de TDT. "
+  },
+  {
+    "nombre": "TV5",
+    "id":42,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/tv5.png",
+    "guia": "https://europe.tv5monde.com/en/tv-guide",
+    "descripcion": "La programación de TV5Monde se basa en la transmisión de películas, series o telefilmes, documentales, revistas de noticias, entretenimiento, cultura, música y programas juveniles, así como deportes en francés."
+  },
+  {
+    "nombre": "DW Amerika",
+    "id":43,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/dw.png",
+    "guia": "https://www.dw.com/de/programm%C3%BCbersicht/s-4765",
+    "descripcion": "emite cada hora con ediciones de tres y quince minutos, además de cuatro noticieros centrales de 28 minutos de duración con la actualidad política y económica de Europa y América Latina"
+  },
+  {
+    "nombre": "Fox News",
+    "id":44,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/fx.png",
+    "guia": "https://www.elmundo.es/television/programacion-tv/fox-news.html",
+    "descripcion": "programación se especializa en noticias con una línea editorial conservadora"
+  },
+  {
+    "nombre": "BBC World News",
+    "id":45,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/bbc.png",
+    "guia": "https://www.bbc.co.uk/schedules/p00fzl9j",
+    "descripcion": "BBC World News es el canal de televisión internacional de noticias de la empresa británica de radiodifusión pública BBC"
+  },
+  {
+    "nombre": "Studio Universal",
+    "id":46,
+    "numero": "",
+    "categoria": "Entretenimiento",
+    "imagen": "/img/su.png",
+    "guia": "https://mi.tv/mx/canales/studio-universal",
+    "descripcion": "Su programación se basa en películas, principalmente en las de Universal Studios, y programas relacionados con entrevistas, reflexiones y cortometrajes."
+  },
+  {
+    "nombre": "Milenio HD",
+    "id":47,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/milenio.png",
+    "guia": "https://mi.tv/mx/canales/milenio-tv",
+    "descripcion": "Milenio Televisión es un canal de televisión abierta mexicano que transmite noticias."
+  },
+  {
+    "nombre": "ESPN HD",
+    "id":48,
+    "numero": "",
+    "categoria": "Deportes",
+    "imagen": "/img/ESPNHD.png",
+    "guia": "https://mi.tv/mx/canales/espn",
+    "descripcion": "ESPN es un grupo de canales de televisión por suscripción estadounidense especializado en los deportes propiedad de ESPN Inc."
+  },
+  {
+    "nombre": "El Financiero",
+    "id":49,
+    "numero": "",
+    "categoria": "Noticias",
+    "imagen": "/img/financiero.png",
+    "guia": "https://mi.tv/mx/canales/el-financiero-bloomberg",
+    "descripcion": "En alianza con Bloomberg, El Financiero te trae noticieros y entrevistas on demand con los personajes más relevantes del ámbito económico y político."
+  }
+]
